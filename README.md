@@ -12,6 +12,6 @@ Welcome to my GitHub profile! I’m a passionate developer who loves to create d
 
 📫 How to Reach Me
 
-	•	Email: HamishTanner404l@egmail.com
+[Contact me via email](mailto:hamishtanner404@gmail.com)
 
 Feel free to explore my repositories, and I’m always open to feedback and suggestions!
