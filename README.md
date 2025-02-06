@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I’m a passionate developer who loves to create d
 
 🚀 Skills & Technologies
 
-	•	Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, Axios
+	•	Frontend: HTML, CSS, JavaScript, Bootstrap, jQuery, EJS, Axios
 	•	Backend: Node.js, Express, MongoDB
 	•	Version Control: Git, GitHub
 	•	Tools: VSCode, Postman, GitHub Pages
